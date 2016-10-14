@@ -1,0 +1,15 @@
+{
+  "name": "ayu-syntax-light",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ayu-theme/ayu-atom-syntax-light",
+  "license": "APACHE 2",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
